@@ -24,7 +24,7 @@ To create a modular, developer-friendly toolkit that makes common software devel
 
 | Module | Purpose | Status |
 |---|---|---|
-| `zenvy-core` | Shared utilities, common exceptions, response models, and foundational types | In development |
+| `zenvy-core` | Shared utilities, common exceptions, response models, and foundational types | Developed / Active |
 | `zenvy-storage` | Reusable image and file storage abstractions and implementations | In development |
 | `zenvy-validation` | Reusable validation utilities and conventions | Planned |
 | `zenvy-logging` | Standardized logging utilities and integrations | Planned |
