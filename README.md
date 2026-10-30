@@ -251,6 +251,6 @@ The project license has not yet been specified. A license will be added before p
 
 **Yasindu Pathiraja**
 
-* GitHub: [@yasiduP123](https://github.com/yasiduP123)
+* GitHub: [@YasinduP123](https://github.com/YasinduP123)
 
 *Zenvy — Reusable tools for better software development.*
